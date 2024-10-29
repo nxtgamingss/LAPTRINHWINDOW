@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\LAPTRINHWINDOWS\\thuchanhbuoi2\\B\u00E0i th\u1EF1c h\u00E0nh h\u01B0\u1EDBng d\u1EABn 01 \u2013 Ch\u01B0\u01A1ng 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5983BF5-8226-443F-B7E3-DD6304D7E018}|c2bai1.csproj|C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\LAPTRINHWINDOWS\\thuchanhbuoi2\\B\u00E0i th\u1EF1c h\u00E0nh h\u01B0\u1EDBng d\u1EABn 01 \u2013 Ch\u01B0\u01A1ng 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5983BF5-8226-443F-B7E3-DD6304D7E018}|c2bai1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5983BF5-8226-443F-B7E3-DD6304D7E018}|c2bai1.csproj|c:\\users\\asus\\onedrive - viet-hung industrial university\\laptrinhwindows\\thuchanhbuoi2\\b\u00E0i th\u1EF1c h\u00E0nh h\u01B0\u1EDBng d\u1EABn 01 \u2013 ch\u01B0\u01A1ng 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5983BF5-8226-443F-B7E3-DD6304D7E018}|c2bai1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5983BF5-8226-443F-B7E3-DD6304D7E018}|c2bai1.csproj|C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\LAPTRINHWINDOWS\\thuchanhbuoi2\\B\u00E0i th\u1EF1c h\u00E0nh h\u01B0\u1EDBng d\u1EABn 01 \u2013 Ch\u01B0\u01A1ng 1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5983BF5-8226-443F-B7E3-DD6304D7E018}|c2bai1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\LAPTRINHWINDOWS\\thuchanhbuoi2\\B\u00E0i th\u1EF1c h\u00E0nh h\u01B0\u1EDBng d\u1EABn 01 \u2013 Ch\u01B0\u01A1ng 1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\LAPTRINHWINDOWS\\thuchanhbuoi2\\B\u00E0i th\u1EF1c h\u00E0nh h\u01B0\u1EDBng d\u1EABn 01 \u2013 Ch\u01B0\u01A1ng 1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:48:53.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\LAPTRINHWINDOWS\\thuchanhbuoi2\\B\u00E0i th\u1EF1c h\u00E0nh h\u01B0\u1EDBng d\u1EABn 01 \u2013 Ch\u01B0\u01A1ng 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\LAPTRINHWINDOWS\\thuchanhbuoi2\\B\u00E0i th\u1EF1c h\u00E0nh h\u01B0\u1EDBng d\u1EABn 01 \u2013 Ch\u01B0\u01A1ng 1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:47:50.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\LAPTRINHWINDOWS\\thuchanhbuoi2\\B\u00E0i th\u1EF1c h\u00E0nh h\u01B0\u1EDBng d\u1EABn 01 \u2013 Ch\u01B0\u01A1ng 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\LAPTRINHWINDOWS\\thuchanhbuoi2\\B\u00E0i th\u1EF1c h\u00E0nh h\u01B0\u1EDBng d\u1EABn 01 \u2013 Ch\u01B0\u01A1ng 1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:38:07.752Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

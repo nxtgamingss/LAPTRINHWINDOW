@@ -1,0 +1,10 @@
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\thuchanhbuoi3\C3BAI6\bin\Debug\C3BAI6.exe.config
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\thuchanhbuoi3\C3BAI6\bin\Debug\C3BAI6.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\thuchanhbuoi3\C3BAI6\bin\Debug\C3BAI6.pdb
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\thuchanhbuoi3\C3BAI6\obj\Debug\C3BAI6.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\thuchanhbuoi3\C3BAI6\obj\Debug\C3BAI6.Form1.resources
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\thuchanhbuoi3\C3BAI6\obj\Debug\C3BAI6.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\thuchanhbuoi3\C3BAI6\obj\Debug\C3BAI6.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\thuchanhbuoi3\C3BAI6\obj\Debug\C3BAI6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\thuchanhbuoi3\C3BAI6\obj\Debug\C3BAI6.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\thuchanhbuoi3\C3BAI6\obj\Debug\C3BAI6.pdb

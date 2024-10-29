@@ -1,0 +1,13 @@
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\bin\Debug\c1bai1.exe.config
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\bin\Debug\c1bai1.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\bin\Debug\c1bai1.pdb
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\obj\Debug\c1bai1.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\obj\Debug\c1bai1.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\obj\Debug\c1bai1.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\obj\Debug\c1bai1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\obj\Debug\c1bai1.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\obj\Debug\c1bai1.pdb
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\bin\Debug\aa-ER\c1bai1.resources.dll
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\obj\Debug\c1bai1.frmPractice_c1_1.resources
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\obj\Debug\c1bai1.frmPractice_c1_1.aa-ER.resources
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LAPTRINHWINDOWS\LAPTRINHWINDOW\thuchanhbuoi1\c1bai1\obj\Debug\aa-ER\c1bai1.resources.dll
